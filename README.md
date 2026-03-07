@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://porto2-tawny.vercel.app/](https://porto2-tawny.vercel.app/)
 
-- 💬 Ask me about **Mern and laravel**
+- 💬 Ask me about **Mern and laravel ,Go**
 
 - 📫 How to reach me **chernettafesse791@gmail.com**
 
